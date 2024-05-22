@@ -1,2 +1,1 @@
-versão feature 
-texto comum 
+texto editado 
